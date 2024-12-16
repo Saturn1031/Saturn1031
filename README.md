@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=venom&color=DEBFBF&height=300&section=header&text=Narae%20Gwon%27s%20Github&fontSize=50&stroke=DEBFBF" />
 
 
-[![Narae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saturn1031&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Narae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saturn1031&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
